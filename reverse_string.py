@@ -9,7 +9,7 @@ class Solution:
             s[i] = s[j]
             s[j] = temp
             i+=1
-            j-=1;
+            j-=1
         """
         Do not return anything, modify s in-place instead.
         """
